@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jrgf
-- 👀 I’m interested in fullstack web development,machine learning,data science
-- 🌱 I’m currently learning php,python,R
-- 💞️ I’m looking to collaborate on any interesting project who needs a junior dev
+- 👀 Backend software developer
+- 💞️ Blockchain and TON ecosystem enthusiast
 - 📫 How to reach me jg1238610@gmail.com
 
 <!---
