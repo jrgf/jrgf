@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jrgf
 - 👀 Backend software developer
 - 💞️ Blockchain and TON ecosystem enthusiast
-- 📫 How to reach me jg1238610@gmail.com
+- 📫 How to reach me contact@josergarcia.dev  
 
 <!---
 jrgf/jrgf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
